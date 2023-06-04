@@ -1,0 +1,6 @@
+.vscode/c_cpp_properties.json
+*.exe
+C++ projects/practice/sandbox.cpp
+.vscode/launch.json
+.vscode/tasks.json
+C++ projects/C++ practice files/practice/sand.cpp

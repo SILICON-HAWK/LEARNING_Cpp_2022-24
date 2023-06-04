@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${default}",
+                "D:/GCC/mingw64/include/c++/11.2.0/**",
+                "${workspaceFolder}/**",
+                "D:/GIT PYTHON VSCODE/CODEBLOCKS/codeblocks files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/**",
+                "D:/GIT PYTHON VSCODE/CODEBLOCKS/codeblocks files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/**",
+                "D:/GIT PYTHON VSCODE/CODEBLOCKS/codeblocks files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward/**",
+                "D:/GIT PYTHON VSCODE/CODEBLOCKS/codeblocks files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/**",
+                "D:/GIT PYTHON VSCODE/CODEBLOCKS/codeblocks files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/**",
+                "D:/GIT PYTHON VSCODE/CODEBLOCKS/codeblocks files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include/**",
+                "D:/GIT PYTHON VSCODE/CODEBLOCKS/codeblocks files/CodeBlocks/MinGW/x86_64-w64-mingw32/include/**",
+                "D:/GCC/mingw64/include/c++/11.2.0",
+                "D:/GCC/mingw64/include/c++/11.2.0/x86_64-w64-mingw32",
+                "D:/GCC/mingw64/include/c++/11.2.0/tr1",
+                "D:/GIT PYTHON VSCODE/CODEBLOCKS/codeblocks files/CodeBlocks/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                "D:/GCC/mingw64/include/c++/11.2.0/x86_64-w64-mingw32/**",
+                "D:/GCC/mingw64/include/c++/11.2.0/tr1/**",
+                "D:/GIT PYTHON VSCODE/CODEBLOCKS/codeblocks files/CodeBlocks/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/**",
+                "D:/GIT PYTHON VSCODE/CODEBLOCKS/codeblocks files/CodeBlocks/MinGW/x86_64-w64-mingw32/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "gnu17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "D:/GCC/mingw64/bin/gcc.exe"
+        }
+    ],
+    "version": 4
+}
